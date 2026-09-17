@@ -7,8 +7,8 @@
 
 <p align="center">
   <sub>
-    Python &middot; SQL &middot; PyTorch &middot; TensorFlow &middot; scikit-learn &middot; CUDA &middot; Spark<br>
-    LangGraph &middot; vLLM &middot; PostgreSQL &middot; Redis &middot; AWS &middot; Azure &middot; Docker &middot; Terraform &middot; MLflow
+    Python &middot; SQL &middot; PyTorch &middot; TensorFlow &middot; CUDA &middot; Spark<br>
+    LangGraph &middot; vLLM &middot; Pinecone &middot; PostgreSQL &middot; AWS &middot; Azure &middot; Docker &middot; Terraform &middot; MLflow
   </sub>
 </p>
 
@@ -31,9 +31,9 @@ Currently **AI Research Engineer at Yale**, building clinical research infrastru
 
 ### Stack
 
-**Modeling & statistics** PyTorch · TensorFlow · scikit-learn · CUDA · Spark · distributed training · clustering · hypothesis testing
-**GenAI & agents** RAG · agentic systems · inference optimization · vector DBs · LangGraph · LangChain · LangSmith · RAGAS · vLLM · MCP
-**Languages & data** Python · TypeScript · R · C/C++ · SQL · PostgreSQL · MongoDB · Redis
+**Modeling & statistics** PyTorch · TensorFlow · CUDA · Spark · distributed training · clustering · hypothesis testing
+**GenAI & agents** RAG · agentic systems · inference optimization · Pinecone · vector search · LangGraph · LangChain · LangSmith · RAGAS · vLLM · MCP
+**Languages & data** Python · TypeScript · R · C/C++ · SQL · PostgreSQL · MongoDB
 **Engineering & infra** tests · CI/CD · Terraform · Docker · FastAPI · Pydantic · Alembic · MLflow · Airflow · AWS · Azure
 
 ### Things I've built
